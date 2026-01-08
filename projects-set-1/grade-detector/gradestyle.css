@@ -24,3 +24,10 @@ label{
 li{
     padding: 4px;
 }
+
+@media(max-width: 740px){
+    #result {
+        font-size: 30px;
+    }
+
+}

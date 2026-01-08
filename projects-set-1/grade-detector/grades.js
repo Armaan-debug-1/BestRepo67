@@ -21,11 +21,26 @@ form.addEventListener('submit',(e) => {
         case 'ED':
             gradelist = [48,60,75,82,100]
             break;
-        case 'MATHS':
+        case 'MATHS-B':
             gradelist = [47,62,80,86,100]
             break;
         case 'UAI201':
             gradelist = [100,100,100,100,100]
+            break;
+        case 'MATHS-A':
+            gradelist = [46,62,81,90,100]
+            break;
+        case 'PROGRAMMING':
+            gradelist = [42,59,70,79,100]
+            break;
+        case 'ELECTRICAL':
+            gradelist = [43,60,69,78,100]
+            break;
+        case 'ENERGY':
+            gradelist = [46,52,59,64.5,100]
+            break;
+        case 'CHEMISTRY':
+            gradelist = [46,60,77,84,100]
             break;
     
         default:
