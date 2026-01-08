@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+    color: #212121;
+    border: solid red 2px;
+    padding: 3px;
+}
+button{
+    border: solid blue 2px;
+    font-size: 20px;
+}
+#result{
+    padding: 12px;
+    font-size: 40px;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+}
+.list{
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+li{
+    padding: 4px;
+}
