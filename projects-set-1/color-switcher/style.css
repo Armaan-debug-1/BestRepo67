@@ -1,0 +1,31 @@
+.button{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+}
+body{
+    background-color: beige;
+}
+#green{
+    background: green
+}
+#yellow{
+    background: yellow;
+}
+
+#red{
+    background: red;
+}
+#blue{
+    background: blue;
+}
+#purple{
+    background: purple;
+}
+#cyan{
+    background: cyan;
+}
+span{
+    display: block;
+}
